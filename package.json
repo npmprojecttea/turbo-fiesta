@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmprojecttea/turbo-fiesta",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,17 +10,22 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmprojecttea/turbo-fiesta.git"
   },
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
-    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/api-client-x": "^1.2.1",
+    "@libphamton/api-edge": "^1.0.0",
+    "@libphamton/api-method": "^1.0.2",
     "@libphamton/api-openai": "^1.0.3",
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
-    "@libphamton/fb-group": "^1.0.0",
+    "@libphamton/fb-group": "^1.0.2",
+    "@mineghpm/api-extension": "^1.0.1",
+    "@mineghpm/api-remote": "^1.0.1",
+    "@mineghpm/api-theme": "^1.0.1",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
-    "@oraliepham/api-facebooknew": "^1.0.5",
+    "@oraliepham/api-facebooknew": "^1.0.7",
     "@scdb/simple-http": "^1.0.4",
     "@utilcode/simple-http": "^1.0.0",
     "api-chat-fanpage-facebook": "^1.2.0",
